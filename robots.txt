@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: http://iusaicoom.thomasaidancurran.com/sitemap.xml
